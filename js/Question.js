@@ -44,7 +44,7 @@ class Question {
     this.title.position(350, 0);
 
     
-    this.input2.position(250,230 );
+    this.input2.position(350,230 );
     this.question.html("Which animal lives in antartica?");
     this.option1.html("Penguin");
     this.option2.html("Polar Bear");
