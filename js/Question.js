@@ -62,7 +62,7 @@ class Question {
 
 
 
-    this.input1.position(150, 230);
+    this.input1.position(180, 230);
     this.button.position(290, 300);
 
     // Add a mousepressed action when the button is clicked Display the this.message
